@@ -385,6 +385,8 @@ a.section-resto-prev:link {
 }
 
 footer {
+  position: relative;
+  z-index: 999;
   background-color: #353535;
   padding: 10px 0px;
   display: flex;
