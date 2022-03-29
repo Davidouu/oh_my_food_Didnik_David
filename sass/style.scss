@@ -139,6 +139,7 @@ header{
     padding: 15px 0;
     .site-info__title{
         font-size: 25px;
+        text-align: center;
     }
     @media screen and (max-width: 1150px){
         width: 100%;
@@ -146,9 +147,6 @@ header{
     @media screen and (max-width: 720px){
         width: 100%;
         padding: 60px 0;
-    }
-    h1{
-        text-align: center;
     }
     p{
         text-align: center;
@@ -193,7 +191,7 @@ header{
         background-color: #fff;
         width: 90%;
     }
-    h1{
+    h2{
         font-size: 25px;
         width: 85%;
     }
@@ -353,7 +351,7 @@ a.section-resto-prev:link{
         }
         .section-resto-prev-footer-text{
             padding: 10px;
-            h1{
+            h2{
                 font-size: 22px;
             }
             p{
